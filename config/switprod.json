@@ -1,0 +1,16 @@
+{
+    "license": "Copyright (C) Skillworks IT - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by Skillworks IT <contact@skillworksit.com>, Jan 2023",
+    "mongoDBConnection": "mongodb://localhost:8117/inf36510709_flightsearch",
+
+    "fromMail": "noreply@indifly365.com",
+    "fromMailPswd": "abkmsyisacbldoum",
+    "mailServerHost": "smtp.gmail.com",
+    "mailServerPort": 587,
+    "paymentsMail": "accounts@indifly365.com",
+    "jwtSecretKey": "SWIT-INF365!&J*$D@^N-Admin|Prod",
+    "criptoEncryptKey": "A22!&J*$@^D|INF365#SwIt#17$|Prod",
+
+    "apiDomain": "https://infadapi.skillworksit.com/adcuflightsearch/",
+    "adUiDomain": "https://admin.indifly365.com/",
+    "uiDomain": "https://indifly365.com/"
+}

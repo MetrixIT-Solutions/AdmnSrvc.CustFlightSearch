@@ -1,0 +1,29 @@
+{
+    "appName": "IndiFly365 Admin - Customers flights search history API service",
+    "license": "Copyright (C) Skillworks IT - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by Skillworks IT <contact@skillworksit.com>, Jan 2023",
+    "mySalt": "86cf75841318f5137097f2157d9a9ea5",
+    "mySaltLen": 32,
+    "myCity": "Hyderabad",
+    "myState": "Telangana",
+    "myCountry": "India",
+
+    "logName": "INF365AdCustFlightSearchLogger",
+    "logFilesPath": "logs/inf365adcuflightsearch.api.log",
+    "logDtPattern": "YYMMDD",
+    "logFilesLevel": "debug",
+
+    "mobSessionExpireType": "days",
+    "mobSessionExpire": 90,
+    "webSessionExpireType": "days",
+    "webSessionExpire": 3,
+    "otpSessionExpireType": "minutes",
+    "otpSessionExpire": 10,
+    "itServeSessionExpireType": "minutes",
+    "itServeSessionExpire": 180,
+
+    "pgcPercent": 3,
+
+    "collCustsUserAgents": "custs_user_agents",
+    "collFlightsSearches": "custs_flights_searches",
+    "collFlightsSearchesClsd": "custs_flights_searches_clsd"
+}
